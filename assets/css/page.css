@@ -73,8 +73,8 @@ nav .bubble {
 }
 
 nav li:hover .bubble {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     z-index: -1;
 }
 
